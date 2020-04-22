@@ -1,0 +1,6 @@
+framework module Pods_Atividade_Proposta {
+  umbrella header "Pods-Atividade-Proposta-umbrella.h"
+
+  export *
+  module * { export * }
+}
